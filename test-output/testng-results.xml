@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13930" started-at="2017-04-29T17:26:33Z" finished-at="2017-04-29T17:26:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13930" started-at="2017-04-29T17:26:33Z" finished-at="2017-04-29T17:26:47Z">
+      <class name="myPractice.Dropdown">
+        <test-method status="PASS" signature="test()[pri:0, instance:myPractice.Dropdown@62ee68d8]" name="test" duration-ms="13883" started-at="2017-04-29T22:56:33Z" finished-at="2017-04-29T22:56:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- myPractice.Dropdown -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
